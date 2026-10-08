@@ -1,0 +1,6 @@
+{
+  "name": "Terra Incognita — The Grand Travel Dispatch",
+  "description": "An immersive editorial travel journal presenting 10 comprehensive, long-form destination guides covering art, culture, major attractions, dining, curated itineraries, budgets, and insider travel tips across the globe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
